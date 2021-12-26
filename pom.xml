@@ -10,7 +10,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>selenium.task</name>
+	<name>selenium.vois.task</name>
 	<url>http://www.example.com</url>
 
 	<properties>
